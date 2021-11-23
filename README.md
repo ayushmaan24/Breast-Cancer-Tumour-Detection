@@ -1,11 +1,5 @@
 # Breast-Cancer-Tumour-Detection
-This is an algorithm that was developed using machine learning to identify and classify cancer
-causing tumors in the breast and help to reduce mortality in females due to these going
-unnoticed. We can use these techniques to make tools for doctors that can be used as an
-effective mechanism for early detection and diagnosis of breast cancer which could greatly
-enhance the survival rate of patients. Our objective is to develop a system that uses medical
-images and scans of the breast and identify them as normal or abnormal, and if abnormal,
-classify them as benign or malignant.
+This algorithm is developed using machine learning to identify and classify cancer causing tumours in the breast and help to reduce mortality in females due to these going unnoticed. These identification techniques can be used to make tools for doctors that can be used as an effective mechanism for early detection and diagnosis of breast cancer which could greatly enhance the survival rate of patients. The main objective is to develop a system that uses medical images and scans of the breast and identify them as normal or abnormal, and if abnormal, classify them as benign or malignant.
 
 # ALGORITHM
 The final CNN based model will be developed with the help of various layers and functions
