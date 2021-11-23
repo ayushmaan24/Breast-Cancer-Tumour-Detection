@@ -21,8 +21,7 @@ Screening Mammography (DDSM). We have chosen to use the MIAS data set for now.
 
 Link: http://peipa.essex.ac.uk/info/mias.html 
 
-The testing/training data (images) is available in the 
-google drive folder: https://drive.google.com/drive/folders/1H7ZJeUMgWDkZUw3gNzgDEIged9n6YSWP?usp=sharing
+The testing/training data (images) is available in the google drive folder: https://drive.google.com/drive/folders/1H7ZJeUMgWDkZUw3gNzgDEIged9n6YSWP?usp=sharing
 (under the name 'all-mias', 'all-mias-jpg', 'all-mias-no-label') and can be downloaded from there, the code/model
 that has been uploaded here is already trained and tested, so there is no need to repeat the
 process again.
